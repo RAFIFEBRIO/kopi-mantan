@@ -37,7 +37,7 @@ cd backend
 cp .env.example .env      # Windows: copy .env.example .env
 ```
 
-Isi `.env`: `DATABASE_URL` (dengan password PostgreSQL) dan `JWT_SECRET` (teks acak apa saja). Lalu:
+**Isi file `.env`: `DATABASE_URL` (dengan password PostgreSQL) dan `JWT_SECRET` (teks acak apa saja)**. Lalu:
 
 ```bash
 npm install
