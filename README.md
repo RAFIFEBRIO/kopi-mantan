@@ -30,6 +30,8 @@ Buka pgAdmin (Query Tool) atau psql, lalu buat database dengan nama `kopi_mantan
 CREATE DATABASE kopi_mantan;
 ```
 
+**Selanjutnya extract zip folder dan buka folder pada vscode lalu ke bagian terminal dan ketik code backend dibawah ini setiap satu baris:** 
+
 **2. Backend**
 
 ```bash
@@ -44,6 +46,9 @@ npm install
 npm run migrate           # menjalankan semua file di backend/migrations
 npm run dev               # API di http://localhost:3000
 ```
+
+**Setelah localhost sudah menyala lanjut buka terminal baru dan ketik code frontend dibawah ini setiap baris** 
+
 
 **3. Frontend**
 
