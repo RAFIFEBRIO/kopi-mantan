@@ -9,12 +9,12 @@ Proyek UTS Pemrograman Aplikasi Bergerak, Program Studi Sistem Informasi, Tahun 
 
 ## Anggota Kelompok 3
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1 | Netha Yuwira Almaizzani | 24051214185 |
-| 2 | Muhammad Rafi Febrio | 24051214196 |
-| 3 | Bintang Adhi Susanto | 24051214197 |
-| 4 | Achmad Rafi Ilmal | 24051214204 |
+| No | Nama | NIM | Job Desk |
+|----|------|-----|----------|
+| 1 | Netha Yuwira Almaizzani | 24051214185 | Frontend (UI) dan integrasi API |
+| 2 | Muhammad Rafi Febrio | 24051214196 | Database dan Backend |
+| 3 | Bintang Adhi Susanto | 24051214197 | Frontend (UI) dan integrasi API |
+| 4 | Achmad Rafi Ilmal | 24051214204 | Database dan Backend |
 
 ## Cara Menjalankan
 
@@ -23,6 +23,8 @@ Prasyarat: Flutter SDK, Node.js 18+, PostgreSQL.
 
 **1. Database**
 Buka Pgadmin/postgresql dan buat database dengan nama "kopi_mantan"
+
+Buka pgAdmin (Query Tool) atau psql, lalu buat database dengan nama `kopi_mantan`:
 
 ```sql
 CREATE DATABASE kopi_mantan;
