@@ -22,6 +22,7 @@ Tech stack: Flutter, REST API (Node.js + Express), PostgreSQL.
 Prasyarat: Flutter SDK, Node.js 18+, PostgreSQL.
 
 **1. Database**
+Buka Pgadmin dan buat database dengan nama kopi_mantan
 
 ```sql
 CREATE DATABASE kopi_mantan;
