@@ -7,7 +7,7 @@ Proyek UTS Pemrograman Aplikasi Bergerak, Program Studi Sistem Informasi, Tahun 
 - **Aplikasi asli:** Kopi Kenangan
 - **Nama plesetan:** Kopi Mantan
 
-## Anggota Kelompok
+## Anggota Kelompok 3
 
 | No | Nama | NIM |
 |----|------|-----|
